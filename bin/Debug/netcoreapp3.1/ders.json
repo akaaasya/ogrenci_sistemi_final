@@ -1,0 +1,24 @@
+{
+  "DersAdi": "Matematik",
+  "Kredi": 4,
+  "OgretimGorevlisi": {
+    "Unvan": "Doç. Dr.",
+    "Ad": "Ali",
+    "Soyad": "Yılmaz",
+    "Email": "ali.yilmaz@universite.edu.tr"
+  },
+  "KayitliOgrenciler": [
+    {
+      "OgrenciNo": 123,
+      "Ad": "Ayşe",
+      "Soyad": "Demir",
+      "Email": "ayse.demir@student.edu.tr"
+    },
+    {
+      "OgrenciNo": 456,
+      "Ad": "Mehmet",
+      "Soyad": "Kaya",
+      "Email": "mehmet.kaya@student.edu.tr"
+    }
+  ]
+}
